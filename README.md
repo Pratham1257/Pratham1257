@@ -1,64 +1,83 @@
-## Hi there 👋  
-# I'm Pratham
+<h1 align="center">Hi 👋, I'm Pratham</h1>
+<h3 align="center">Aspiring Data Scientist | ML/AI Enthusiast | Data Analyst</h3>
 
-🎓 I’m passionate about **Machine Learning, Artificial Intelligence, Data Analytics, and Data Science**.  
-💻 I enjoy working on projects that solve real-world problems using **data, automation, and intelligent systems**.  
-📊 Currently exploring the world of **Python, Pandas, NumPy, Machine Learning models, and Data Visualization**.  
-🚀 My goal is to grow as a **Data Scientist / AI Engineer** and build impactful solutions.  
-
----
-
-## 🔭 Current Focus
-- Learning and building projects in **Machine Learning & AI**
-- Improving my skills in **Data Analysis and Data Visualization**
-- Exploring **real-world datasets** and extracting meaningful insights
-- Strengthening my foundation in **Python for Data Science**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Machine+Learning+Enthusiast;AI+Explorer;Data+Analytics+Learner;Aspiring+Data+Scientist" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- **Python**
-- **Pandas & NumPy**
-- **Data Cleaning & Data Analysis**
-- **Machine Learning**
-- **Statistics for Data Science**
-- **Data Visualization tools**
-
----
-
-## 👯 Looking to Collaborate On
-- Beginner-friendly **AI/ML projects**
-- **Data Analytics** projects
-- Open-source contributions related to **Data Science**
-- Innovative ideas that combine **AI with real-world applications**
-
----
-
-## 💬 Ask Me About
-- Python basics
-- Data Analysis
-- Machine Learning beginner projects
-- GitHub and project building journey
+## 🚀 About Me
+- 🎓 Passionate about **Machine Learning, Artificial Intelligence, Data Analytics, and Data Science**
+- 📊 Skilled in working with **data, insights, and intelligent systems**
+- 🌱 Currently learning **Python, Pandas, NumPy, SQL, Machine Learning, and Data Visualization**
+- 🔭 Building projects that solve **real-world problems using AI and Data**
+- 🎯 Goal: To become a successful **Data Scientist / AI Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
-- **Domains:** Machine Learning, AI, Data Analytics, Data Science
-- **Tools:** Jupyter Notebook, Git, GitHub, VS Code
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+### **Libraries & Tools**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
+## 📚 Currently Learning
+- Machine Learning algorithms
+- Data Analysis and Data Cleaning
+- Statistics for Data Science
+- Data Visualization
+- AI-based real-world projects
+
+---
+
+## 🤝 Looking to Collaborate On
+- Machine Learning projects
+- Data Analytics projects
+- Data Science beginner-to-intermediate projects
+- Open-source contributions in AI and Data
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham1257&show_icons=true&theme=tokyonight" alt="Pratham's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham1257&theme=tokyonight" alt="Pratham's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham1257&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 - GitHub: [Pratham1257](https://github.com/Pratham1257)
-- LinkedIn: *Add your LinkedIn link here*
+- LinkedIn: *Add your LinkedIn profile link here*
 - Email: *Add your email here*
 
 ---
 
 ## ⚡ Fun Fact
-I love turning **raw data into meaningful insights** and using **AI to solve practical problems**.
+I enjoy transforming **raw data into insights** and using **AI to create impactful solutions**.
 
 ---
-⭐️ From [Pratham1257](https://github.com/Pratham1257)
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Pratham1257">Pratham1257</a>
+</p>
